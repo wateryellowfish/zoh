@@ -3,4 +3,17 @@ Last name: Arcana
 
 My motivation:
 
-I really find programming enjoyable as it pushes my analytical skills and also tests my creativity to tackle problems. I learned that I have talent in coding when I was taking engineering classes. After I graduated from college, I didn't have the opportunity to have jobs that can improve further my programming skills. Now that I have given up my regular job to help establish our own family business, I study and take some courses during my free time, and hopefully use it to build apps and systems to scale up the business. I also hope that I can also use my coding skills to apply and get in high-paying jobs, not only for the salary but also to meet other skilled people too and learn from them. I have been struggling (and also procrastinating hehe) for two years in learning how to code, maybe because I am only doing it on my own. Now that I'm in this bootcamp, it gave me hope that I'm not the only one struggling, and also having an instructor pushes me to become accountable.
+	I really find programming enjoyable as it pushes my analytical skills and also tests my creativity to tackle problems. I learned that I have talent in coding when I was taking engineering classes. After I graduated from college, I didn't have the opportunity to have jobs that can improve further my programming skills. Now that I have given up my regular job to help establish our own family business, I study and take some courses during my free time, and hopefully use it to build apps and systems to scale up the business. I also hope that I can also use my coding skills to apply and get in high-paying jobs, not only for the salary but also to meet other skilled people too and learn from them. I have been struggling (and also procrastinating hehe) for two years in learning how to code, maybe because I am only doing it on my own. Now that I'm in this bootcamp, it gave me hope that I'm not the only one struggling, and also having an instructor pushes me to become accountable.
+
+
+
+My career/experience:
+	2018: Graduated BS in Electrical Engineering and passed the board exam.
+
+	2018-2021: Successfully passed and accepted as a Cadet Engineer Trainee in a coal-fired power plant in Misamis Oriental
+
+	2021: Hired as a regular employee in the same power plant
+
+	2021-2023: Applied to another company in Bohol, as it is nearer in my hometown. Hired as a maintenance/operator in a Battery Energy Storage System by San Miguel Corp.
+
+	2023-Current: Helping in our small retail shop for electrical supplies and also accepting electrical projects and installations. Also given an opportunity to become a part-time instructor in a local college here in Bohol, and also learning how to become a full-stack developer on my free time. It was also a hobby of mine making some Arduino projects and learning how to make programs for microcontrollers.
