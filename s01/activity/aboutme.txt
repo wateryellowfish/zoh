@@ -1,2 +1,6 @@
 First name: Clarence
 Last name: Arcana
+
+My motivation:
+
+I really find programming enjoyable as it pushes my analytical skills and also tests my creativity to tackle problems. I learned that I have talent in coding when I was taking engineering classes. After I graduated from college, I didn't have the opportunity to have jobs that can improve further my programming skills. Now that I have given up my regular job to help establish our own family business, I study and take some courses during my free time, and hopefully use it to build apps and systems to scale up the business. I also hope that I can also use my coding skills to apply and get in high-paying jobs, not only for the salary but also to meet other skilled people too and learn from them. I have been struggling (and also procrastinating hehe) for two years in learning how to code, maybe because I am only doing it on my own. Now that I'm in this bootcamp, it gave me hope that I'm not the only one struggling, and also having an instructor pushes me to become accountable.
