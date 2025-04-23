@@ -1,0 +1,70 @@
+*{
+	font-family: "Courier New", monospace;
+}
+
+h1{
+	font-family: "Tahoma", sans-serif;
+}
+
+body{
+/*	background-color: skyblue;*/
+	background-image: url(https://c4.wallpaperflare.com/wallpaper/43/1003/707/anime-your-name-kimi-no-na-wa-mitsuha-miyamizu-wallpaper-preview.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	height: 100%;
+}
+
+section{
+	text-align: center;
+}
+
+nav{
+	background-color: white;
+	text-align: center;
+	padding: 15px;
+}
+
+.nav-link{
+	font-size: 18px;
+}
+
+.title{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.module-card{
+	height: 350px;
+	width: 800px;
+	padding: 50px;
+	border: 1px solid black;
+	background-color: white;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-radius: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.module-image{
+	height: 200px;
+	width: 200px;
+}
+
+#hello{
+	color: black;
+	font-size: 2rem;
+}
+
+#logo{
+	height: 300px;
+	width: 300px;
+	border-radius: 150px;
+}
+
+#modules{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
