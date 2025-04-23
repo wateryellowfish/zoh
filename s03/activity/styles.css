@@ -20,8 +20,9 @@ nav{
 }
 
 .nav-link{
-	margin-left: 10px;
-	margin-right: 10px;
+	font-size: 22px;
+	margin-left: 30px;
+	margin-right: 30px;
 	color: darkslateblue;
 }
 
@@ -51,20 +52,21 @@ a{
 #title{
 	margin-top: 5px;
 	margin-bottom: 5px;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 #intro{
-	width: 200px;
+	width: 600px;
 	margin: 0 auto;
+	font-size: 22px;
 }
 
 #tools{
 	text-align: center;
-	margin-top: 50px;
-	margin-bottom: 50px;
+	margin: 50px auto;
 	background-color: white;
 	border: 1px solid black;
+	width: 800px;
 }
 
 #tools-title{
@@ -98,8 +100,8 @@ a{
 	height: 400px;
 	width: 600px;
 	margin: 25px auto;
-	border: 1px solid gray;
-	border-radius: 15px;
+	border: 3px solid gray;
+	border-radius: 30px;
 	padding: 20px;
 }
 
@@ -117,5 +119,6 @@ a{
 }
 
 .profile-links{
-	margin: 15px;
+	font-size: 18px;
+	margin: 15px 40px;
 }
